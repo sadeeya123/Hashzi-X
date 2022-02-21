@@ -191,4 +191,4 @@ neotro-x  පිහිටුවීමෙන් ඔබ මෙම වගකීම�
 ## 👽Thanks To
 [![Yusuf Usta](https://github.com/yusufusta.png?size=50)](https://t.me/fusufs)
 [Yusuf Usta](https://t.me/fusufs)
-d
+
